@@ -4,7 +4,7 @@ Projeto desenvolvido para a disciplina **Projeto Aplicado III** do curso de **Ci
 
 O objetivo do projeto é desenvolver um **sistema de recomendação de medicamentos baseado em dados**, capaz de sugerir tratamentos adequados a partir de **sintomas ou condições clínicas informadas pelos usuários**, utilizando o dataset **UCI ML Drug Review**. 
 
-*Link do Vídeo*: <a href='https://youtu.be/4B-HijaPbgo'>Vídeo Explicativo</æ>
+*Link do Vídeo*: <a href='https://youtu.be/AzSt2286bI4'>Vídeo Explicativo</æ>
 
 ## Autores
 
